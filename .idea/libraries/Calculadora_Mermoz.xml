@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Calculadora_Mermoz">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Calculadora_Mermoz.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
