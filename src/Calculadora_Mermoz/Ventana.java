@@ -17,14 +17,14 @@ public class Ventana extends JFrame {
 
     public Ventana() {
 
-        super("Calculadora - TP MERMOZ, DANIEL");
+        super("Calculadora - MERMOZ");
 
 //configuracion de ventana
         setLayout(null);
         setFont(Font.decode("BOLDITALIC"));
         ImageIcon img = new ImageIcon("C:/Users/Daniel-San/Documents/NetBeansProjects/Swing/external_data/icocalcu.png");
         setIconImage(img.getImage());
-        setSize(350, 300);
+        setSize(375, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setResizable(false);
         setLocation(10, 10);
